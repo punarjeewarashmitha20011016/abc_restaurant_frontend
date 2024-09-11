@@ -39,7 +39,7 @@ function Footer() {
                 All rights reserved.
             </Typography>
             <Typography className='landingpageFooter-credits'>
-                    Designed & Developed by <a href='https://www.linkedin.com/in/madhusha-weerasiri' style={{ color: 'white', textDecoration:'underline'}}>Punarjeewa Rashmitha</a>
+                    Designed & Developed by <a href='https://www.linkedin.com/in/punarjeewarashmitha' style={{ color: 'white', textDecoration:'underline'}}>Punarjeewa Rashmitha</a>
                 </Typography>
         </footer>
     )
